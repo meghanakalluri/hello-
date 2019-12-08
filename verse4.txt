@@ -1,0 +1,1 @@
+Because they are commonly used to deliver services that are constantly required, most servers are never turned off. Consequently, when servers fail, they can cause the network users and company many problems. To alleviate these issues, servers are commonly set up to be fault tolerant.
