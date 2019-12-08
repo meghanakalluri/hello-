@@ -1,0 +1,35 @@
+HTML is a computer language devised to allow website creation. These websites can then be viewed by anyone else connected to the Internet. It is relatively easy to learn, with the basics being accessible to most people in one sitting; and quite powerful in what it allows you to create. It is constantly undergoing revision and evolution to meet the demands and requirements of the growing Internet audience under the direction of the » W3C, the organisation charged with designing and maintaining the language.
+
+The definition of HTML is HyperText Markup Language.
+
+HyperText is the method by which you move around on the web — by clicking on special text called hyperlinks which bring you to the next page. The fact that it is hyper just means it is not linear — i.e. you can go to any place on the Internet whenever you want by clicking on links — there is no set order to do things in.
+Markup is what HTML tags do to the text inside them. They mark it as a certain type of text (italicised text, for example).
+HTML is a Language, as it has code-words and syntax like any other language.
+How does it work?
+HTML consists of a series of short codes typed into a text-file by the site author — these are the tags. The text is then saved as a html file, and viewed through a browser, like Internet Explorer or Netscape Navigator. This browser reads the file and translates the text into a visible form, hopefully rendering the page as the author had intended. Writing your own HTML entails using tags correctly to create your vision. You can use anything from a rudimentary text-editor to a powerful graphical editor to create HTML pages.
+
+What are the tags up to?
+The tags are what separate normal text from HTML code. You might know them as the words between the <angle-brackets>. They allow all the cool stuff like images and tables and stuff, just by telling your browser what to render on the page. Different tags will perform different functions. The tags themselves don’t appear when you view your page through a browser, but their effects do. The simplest tags do nothing more than apply formatting to some text, like this:
+
+<b>These words will be bold</b>, and these will not.
+
+
+ 
+In the example above, the <b> tags were wrapped around some text, and their effect will be that the contained text will be bolded when viewed through an ordinary web browser.
+
+If you want to see a list of a load of tags to see what’s ahead of you, look at this tag reference. Learning the tags themselves is dealt with in the next section of this website, My First Site.
+
+Is this going to take long?
+Well, it depends on what you want from it. Knowing HTML will take only a few days of reading and learning the codes for what you want. You can have the basics down in an hour. Once you know the tags you can create HTML pages.
+
+However, using HTML and designing good websites is a different story, which is why I try to do more than just teach you code here at HTML Source — I like to add in as much advice as possible too. Good website design is half skill and half talent, I reckon. Learning techniques and correct use of your tag knowledge will improve your work immensely, and a good understanding of general design and the audience you’re trying to reach will improve your website’s chances of success. Luckily, these things can be researched and understood, as long as you’re willing to work at it so you can output better websites.
+
+
+ 
+The range of skills you will learn as a result of running your own website is impressive. You’ll learn about aspects of graphic design, typography and computer programming. Your efficiency with computers in general increases.You’ll also learn about promotion and your writing will probably improve too, as you adapt to write for certain audiences.
+
+Do I have to be online all the time?
+Not at all. You can code your entire website offline, storing it all on your own computer, and then just transfer all the files onto the web. Then whenever you have new content, you just add that to the existing online version of your site. It’s really quite simple.
+
+Is there anything HTML can’t do?
+Of course, but since making websites became more popular and needs increased many other supporting languages have been created to allow new stuff to happen, plus HTML is modified every few years to make way for improved.
